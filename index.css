@@ -1,0 +1,96 @@
+.container {
+    width: 1230px;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+/* header */
+.header-logo {
+    font-family: 'Montserrat';
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+color: #95E1D3;
+}
+
+.header-link {
+    font-family: 'Montserrat';
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #95E1D3;
+}
+
+.header-link:hover {
+    color: #F38181;
+}
+
+.hero-subtitle {
+    font-family: 'Kaushan Script';
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+color: #333333;
+}
+
+.hero-title {
+    font-family: 'Montserrat';
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+font-variant: all-small-caps;
+color: #333333;
+}
+
+.hero-item-title {
+    font-family: 'Montserrat';
+font-weight: 400;
+font-size: 14px;
+line-height: 1,214;
+font-variant: small-caps;
+color: #333333;
+}
+
+.hero-item-suptitle {
+    font-family: 'Roboto';
+font-weight: 400;
+font-size: 15px;
+line-height: 1,46;
+color: #B6B6B6;
+}
+
+.team-suptitle {
+    font-family: 'Kaushan Script';
+font-weight: 400;
+font-size: 24px;
+line-height: 1,4583;
+color: #333333;
+}
+
+.team-title {
+    font-family: 'Montserrat';
+font-weight: 700;
+font-size: 30px;
+line-height: 1,23;
+font-variant: all-small-caps;
+color: #333333;
+}
+
+.team-text {
+    font-family: 'Roboto';
+font-weight: 400;
+font-size: 15px;
+line-height: 1,2;
+text-align: center;
+color: #B6B6B6;
+}
+
